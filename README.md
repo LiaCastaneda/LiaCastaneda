@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![Snake animation](https://github.com/LiaCastaneda/LiaCastaneda/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/LiaCastaneda/LiaCastaneda/blob/output/github-snake-dark.svg)
